@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/web/index.html</file>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/web/websocket.js</file>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/src/java/org/mario/FigureDecoder.java</file>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/src/java/org/mario/Figure.java</file>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/src/java/org/mario/Coordinates.java</file>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/web/bumpscore.js</file>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/src/java/org/mario/FigureEncoder.java</file>
+            <file>file:/Users/gbuckholtz/Documents/src/dading/dadingserv/src/java/org/mario/websocket/dadingWSEndpoint.java</file>
+        </group>
+    </open-files>
+</project-private>
